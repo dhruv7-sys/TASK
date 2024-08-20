@@ -1,0 +1,142 @@
+{
+  "name": "Dhruv Gupta",
+  "contact_information": {
+    "email": "dhruvg636@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dhruv-gupta-80975b21b/",
+    "mobile": "+91 6350599750",
+    "github": "https://github.com/dhruv7-sys",
+    "leetcode": "https://leetcode.com/u/dhruvguptaa/",
+    "code360": "https://www.naukri.com/code360/profile/dhruvguptaa"
+  },
+  "education": [
+    {
+      "institution": "Narsee Monjee Institute of Management and studies",
+      "location": "Navi Mumbai, India",
+      "degree": "B – Tech in Computer Science and Engineering",
+      "cgpa": "3.08/4",
+      "start_date": "July 2021",
+      "end_date": "August 2025"
+    },
+    {
+      "institution": "Bhartiya Vidya Bhavan Vidhayshram",
+      "location": "Rajasthan, India",
+      "class_10th_percentage": "90.2%",
+      "class_12th_percentage": "94.6%",
+      "start_date": "June 2007",
+      "end_date": "August 2021"
+    }
+  ],
+  "skills_summary": {
+    "languages": [
+      "C",
+      "C++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Python",
+      "Node.js",
+      "Bootstrap"
+    ],
+    "core_cse": [
+      "CN",
+      "DBMS",
+      "OS",
+      "OOPS"
+    ],
+    "tools": [
+      "Excel",
+      "Word"
+    ],
+    "platforms": [
+      "PyCharm",
+      "Jupyter Notebook",
+      "Visual Studio Code",
+      "Intellij IDEA",
+      "Leetcode",
+      "Code 360"
+    ],
+    "soft_skills": [
+      "People Management",
+      "Excellent communication"
+    ]
+  },
+  "work_experience": [
+    {
+      "position": "Summer Research Intern",
+      "organization": "IIT Mandi",
+      "duration": "May - July 24",
+      "responsibilities": [
+        "Implemented a system for detecting and generating Aruco markers using OpenCV, including both single and bulk marker generation.",
+        "Developed a calibration tool to detect and capture images of a chessboard pattern for camera calibration.",
+        "Created a detailed simulation environment for a Husky robot in Gazebo.",
+        "Applied visual servoing techniques to control and navigate the Husky robot based on visual feedback."
+      ],
+      "source_code": "Link"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Show Ticket Booking System",
+      "duration": "December 22- February 2023",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ],
+      "description": [
+        "Created a web application for seamless ticket booking.",
+        "Designed and implemented user signup forms and integrated Razorpay payment gateway.",
+        "Built a responsive and user-friendly interface.",
+        "Managed user feedback with dynamic HTML pages."
+      ],
+      "link": "https://github.com/dhruv7-sys/Show_Ticket_booking_system"
+    },
+    {
+      "name": "College Sports Fest Registration",
+      "duration": "September 23- October 2023",
+      "technologies": [
+        "AngularJS",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Razorpay"
+      ],
+      "description": [
+        "Created a web application for real-time event filtering and registration.",
+        "Designed a user registration form with client-side validation.",
+        "Integrated Razorpay payment gateway.",
+        "Ensured cross-device compatibility with responsive design principles."
+      ],
+      "link": "https://dhruv7-sys.github.io/Prablaya_website/"
+    },
+    {
+      "name": "Snake Game Python",
+      "duration": "July 23- August 2023",
+      "technologies": [
+        "Python",
+        "Turtle module"
+      ],
+      "description": [
+        "Built a fully functional Snake Game.",
+        "Created multiple classes to modularize the game components.",
+        "Integrated collision detection mechanisms.",
+        "Enabled user control of the snake through keyboard inputs."
+      ],
+      "link": "https://github.com/dhruv7-sys/Snake-game-python"
+    }
+  ],
+  "achievements": [
+    {
+      "description": "Achieved a score of 25.86/100 marks and ranked 20,646 out of 123967 students in GATE CSE’24 Examination."
+    },
+    {
+      "description": "Solved over 150 problems on LeetCode and Code360 of Data Structures and Algorithms."
+    },
+    {
+      "description": "Cleared the Cambridge Preliminary English Test (PET) with a B1 grade."
+    }
+  ]
+}
